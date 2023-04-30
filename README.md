@@ -1,5 +1,13 @@
 ### Hi there 👋
+<p>
+    <a href="https://www.linkedin.com/in/minseong-cho-70729b268/" target="_blank"><img src="https://img.shields.io/badge/linkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+    <a href="mailto:minseoi.cc@gmail.com" target="_blank"><img src="https://img.shields.io/badge/minseoi.cc@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</p>
 
+### 👊 Skills
+<p>
+  <img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/>
+</p>
 <!--
 **minseoi/minseoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
